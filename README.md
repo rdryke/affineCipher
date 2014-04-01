@@ -1,6 +1,4 @@
-To compile use the command "javac ShftCipher.java", and to run use "java ShftCipher.class"
-
-After running it, first enter in the cipher text to be solved. then there are 6 options:
+After running it, first enter in the cipher text to be solved. Then the absolute location of dictionary to be used. then there are 6 options:
 
 	guess: Input the numbers you want to guess, the multplication one first and then the addition, will output the attempted plaintext.
 
